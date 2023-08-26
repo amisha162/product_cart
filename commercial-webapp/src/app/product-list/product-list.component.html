@@ -1,0 +1,28 @@
+<h2>Product List</h2>
+<div *ngFor="let product of products" class="product">
+    <h3>{{ product.name }}</h3>
+    <p>Category: {{ product.category }}</p>
+    <p>Price: ${{ product.price }}</p>
+    <button (click)="addToCart(product)">Add to Cart</button>
+</div>
+
+<div *ngFor="let product of filteredProducts">
+</div>
+
+<div>
+    <label for="categoryFilter">Filter by Category:</label>
+    <select id="categoryFilter" [(ngModel)]="selectedCategory">
+        <option value="">All Categories</option>
+        <option *ngFor="let category of categories" [value]="category">{{ category }}</option>
+    </select>
+</div>
+
+<div>
+    <label for="priceFilter">Filter by Price Range:</label>
+    <input id="priceFilter" type="number" placeholder="Min Price" [(ngModel)]="minPrice">
+    <input id="priceFilter" type="number" placeholder="Max Price" [(ngModel)]="maxPrice">
+    <button (click)="applyFilters()">Apply Filters</button>
+</div>
+
+<div class="product" *ngFor="let product of filteredProducts">
+</div>

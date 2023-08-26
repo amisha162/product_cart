@@ -1,0 +1,19 @@
+{
+  "server": {
+    "CORS": {
+      "allowedHosts": [
+        "http://localhost:3010",
+        "http://localhost:4200"
+      ]
+    }
+  },
+  "couchbase": {
+    "host": "localhost:8091",
+    "userName": "Administrator",
+    "password": "280198",
+    "buckets": {
+      "db": "customers"
+    },
+    "defaultBucket": "customers"
+  }
+}

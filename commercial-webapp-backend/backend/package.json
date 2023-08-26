@@ -1,0 +1,20 @@
+{
+  "name": "http2service",
+  "version": "0.0.1",
+  "description": "Http2 Request Service",
+  "main": "server.js",
+  "dependencies": {
+    "@sentry/node": "^5.20.1",
+    "convict": "^4.4.1",
+    "couchbase": "^2.6.12",
+    "express": "^4.16.3",
+    "jsonschema": "^1.2.6",
+    "lodash": "^4.17.20",
+    "moment": "^2.29.0",
+    "morgan": "^1.6.1",
+    "node-uuid": "^1.4.8",
+    "q": "^1.5.1",
+    "restler": "^3.4.0",
+    "winston": "^1.1.2"
+  }
+}

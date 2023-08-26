@@ -1,0 +1,8 @@
+<p>purchase-history works!</p>
+<div *ngFor="let purchase of purchaseHistory">
+    <h3>Purchase Date: {{ purchase.date | date }}</h3>
+    <div *ngFor="let item of purchase.items">
+      <p>{{ item.name }} - Quantity: {{ item.quantity }} - Price: ${{ item.price }}</p>
+    </div>
+  </div>
+  

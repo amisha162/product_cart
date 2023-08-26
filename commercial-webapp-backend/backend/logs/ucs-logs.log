@@ -1,0 +1,651 @@
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2021-12-22T07:09:27.444Z"}
+{"level":"info","message":"Environment: beta","timestamp":"2021-12-22T07:09:27.446Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:12:42.133Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:12:42.135Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:13:45.742Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:13:45.743Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:13:45.744Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:14:06.012Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:14:06.015Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:14:08.414Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:14:08.414Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:14:08.415Z"}
+{"level":"error","message":"Uncaught exception: TypeError: fileData.findIndex is not a function","timestamp":"2022-01-27T09:14:08.437Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:14:36.046Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:14:36.047Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:14:37.966Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:14:37.967Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:14:37.968Z"}
+{"level":"error","message":"Uncaught exception: TypeError: fileData.findIndex is not a function","timestamp":"2022-01-27T09:14:37.993Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:15:02.207Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:15:02.208Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:15:04.151Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:15:04.152Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:15:04.154Z"}
+{"level":"error","message":"Error in read file: Error: ENOENT: no such file or directory, open 'E:\\Node_Api\\sampleData.json'","timestamp":"2022-01-27T09:15:04.160Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:15:11.834Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:15:11.835Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:15:14.006Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:15:14.007Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:15:14.008Z"}
+{"level":"error","message":"Uncaught exception: TypeError: fileData.findIndex is not a function","timestamp":"2022-01-27T09:15:14.034Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:15:40.300Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:15:40.302Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:15:43.231Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:15:43.233Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:15:43.234Z"}
+{"level":"error","message":"Uncaught exception: TypeError: fileData.findIndex is not a function","timestamp":"2022-01-27T09:15:43.260Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:16:51.247Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:16:51.249Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:16:54.310Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:16:54.311Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:16:54.312Z"}
+{"level":"error","message":"Unhandled Rejection at: [object Promise],reason::TypeError: Cannot read property 'code_2000' of undefined","timestamp":"2022-01-27T09:16:54.326Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:18:04.013Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:18:04.016Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:18:06.374Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:18:06.376Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:18:06.378Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:18:43.491Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:18:43.493Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:18:45.856Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:18:45.857Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:18:45.858Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:19:27.862Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:19:27.864Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:19:30.551Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:19:30.552Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:19:30.553Z"}
+{"level":"info","message":"KnowledgeBaseEditorService server started with port : 3000","timestamp":"2022-01-27T09:21:52.361Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:21:52.363Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:21:55.257Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:21:55.258Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:21:55.259Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T09:22:37.690Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:22:37.691Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T09:35:47.601Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:35:47.603Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:36:57.580Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T09:36:57.580Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T09:36:57.584Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T09:40:26.688Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:40:26.690Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T09:46:57.631Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T09:46:57.633Z"}
+{"level":"info","message":"/customer/getData request from:- ::1","timestamp":"2022-01-27T09:47:02.770Z"}
+{"level":"info","message":"request body:- {\"id\":11}","timestamp":"2022-01-27T09:47:02.771Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":11}","timestamp":"2022-01-27T09:47:02.772Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T15:35:06.451Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T15:35:06.453Z"}
+{"level":"info","message":"/customer/getDatafromCB request from:- ::1","timestamp":"2022-01-27T15:35:31.260Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"name\":\"shubhas\",\"address\":{\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T15:35:31.260Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T15:35:31.262Z"}
+{"level":"info","message":"/customer/getDatafromCB request from:- ::1","timestamp":"2022-01-27T15:35:42.069Z"}
+{"level":"info","message":"request body:- {\"id\":1,\"name\":\"shubhas\",\"address\":{\"zipcode\":\"382481\"}}","timestamp":"2022-01-27T15:35:42.070Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T15:35:42.071Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T15:36:52.172Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T15:36:52.174Z"}
+{"level":"info","message":"/customer/getDatafromCB request from:- ::1","timestamp":"2022-01-27T15:36:56.904Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T15:36:56.904Z"}
+{"level":"info","message":"Save Rejection Details data: {\"id\":1}","timestamp":"2022-01-27T15:36:56.906Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T15:37:24.884Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T15:37:24.888Z"}
+{"level":"info","message":"/customer/getDatafromCB request from:- ::1","timestamp":"2022-01-27T15:37:28.266Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-01-27T15:37:28.269Z"}
+{"level":"info","message":"KEY: CST_1","timestamp":"2022-01-27T15:37:28.283Z"}
+{"level":"info","message":"could not find document with key:CST_1, error:{\"message\":\"The key does not exist on the server\",\"code\":13}","timestamp":"2022-01-27T15:37:28.570Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T15:37:40.549Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T15:37:40.557Z"}
+{"level":"info","message":"/customer/getDatafromCB request from:- ::1","timestamp":"2022-01-27T15:38:08.550Z"}
+{"level":"info","message":"request body:- {\"id\":\"f967a7ff-542c-4bee-b458-96f70bcb12bd\"}","timestamp":"2022-01-27T15:38:08.550Z"}
+{"level":"error","message":"Schema validation failed for 0: [{\"path\":[\"id\"],\"property\":\"instance.id\",\"message\":\"is not of a type(s) number\",\"schema\":{\"type\":\"number\",\"required\":false},\"instance\":\"f967a7ff-542c-4bee-b458-96f70bcb12bd\",\"name\":\"type\",\"argument\":[\"number\"],\"stack\":\"instance.id is not of a type(s) number\"}]","timestamp":"2022-01-27T15:38:08.559Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-27T15:38:46.923Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-27T15:38:46.925Z"}
+{"level":"info","message":"/customer/getDatafromCB request from:- ::1","timestamp":"2022-01-27T15:38:49.421Z"}
+{"level":"info","message":"request body:- {\"id\":\"f967a7ff-542c-4bee-b458-96f70bcb12bd\"}","timestamp":"2022-01-27T15:38:49.422Z"}
+{"level":"info","message":"KEY: CST_f967a7ff-542c-4bee-b458-96f70bcb12bd","timestamp":"2022-01-27T15:38:49.427Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-31T10:57:13.168Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-31T10:57:13.179Z"}
+{"level":"info","message":"/customer/getDatafromCB request from:- ::1","timestamp":"2022-01-31T10:58:29.577Z"}
+{"level":"info","message":"request body:- {\"id\":\"f967a7ff-542c-4bee-b458-96f70bcb12bd\"}","timestamp":"2022-01-31T10:58:29.579Z"}
+{"level":"info","message":"KEY: CST_f967a7ff-542c-4bee-b458-96f70bcb12bd","timestamp":"2022-01-31T10:58:29.587Z"}
+{"level":"info","message":"/customer/getDatafromCB request from:- ::1","timestamp":"2022-01-31T11:38:38.753Z"}
+{"level":"info","message":"request body:- {\"id\":\"f967a7ff-542c-4bee-b458-96f70bcb12bd\"}","timestamp":"2022-01-31T11:38:38.754Z"}
+{"level":"info","message":"KEY: CST_f967a7ff-542c-4bee-b458-96f70bcb12bd","timestamp":"2022-01-31T11:38:38.755Z"}
+{"level":"error","message":"Uncaught exception: Error: listen EADDRINUSE: address already in use :::3000","timestamp":"2022-01-31T11:48:28.172Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-31T11:48:34.858Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-31T11:48:34.861Z"}
+{"level":"info","message":"/customer/updateCustomer request from:- ::1","timestamp":"2022-01-31T11:48:47.144Z"}
+{"level":"info","message":"request body:- {\"id\":\"f967a7ff-542c-4bee-b458-96f70bcb12bd\",\"firstName\":\"abc\"}","timestamp":"2022-01-31T11:48:47.238Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-31T11:53:48.559Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-31T11:53:48.562Z"}
+{"level":"info","message":"/customer/updateCustomer request from:- ::1","timestamp":"2022-01-31T11:53:55.015Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"Hannan\",\"lastName\":\"Desai\",\"age\":25,\"address\":{\"addr1\":\"roshan park society\",\"addr2\":\"jivrajpark, satellite\",\"city\":\"ahmedabad\",\"zipcode\":\"382466\"}}","timestamp":"2022-01-31T11:53:55.016Z"}
+{"level":"info","message":"could not find document with key:CST_undefined, error:{\"message\":\"The key does not exist on the server\",\"code\":13}","timestamp":"2022-01-31T11:53:55.084Z"}
+{"level":"info","message":"/customer/addCustomer request from:- ::1","timestamp":"2022-01-31T11:55:25.802Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"Hannan\",\"lastName\":\"Desai\",\"age\":25,\"address\":{\"addr1\":\"roshan park society\",\"addr2\":\"jivrajpark, satellite\",\"city\":\"ahmedabad\",\"zipcode\":\"382466\"}}","timestamp":"2022-01-31T11:55:25.803Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-31T11:57:55.919Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-31T11:57:55.922Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-01-31T11:58:17.002Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-01-31T11:58:17.004Z"}
+{"level":"info","message":"/customer/updateCustomer request from:- ::1","timestamp":"2022-01-31T11:58:25.256Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"Heena\",\"lastName\":\"patel\",\"age\":24,\"address\":{\"addr1\":\"roshan park society\",\"addr2\":\"jivrajpark, satellite\",\"city\":\"ahmedabad\",\"zipcode\":\"382466\"}}","timestamp":"2022-01-31T11:58:25.261Z"}
+{"level":"info","message":"could not find document with key:CST_undefined, error:{\"message\":\"The key does not exist on the server\",\"code\":13}","timestamp":"2022-01-31T11:58:25.330Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-02-01T04:35:20.296Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-02-01T04:35:20.298Z"}
+{"level":"info","message":"/customer/getDatafromCB request from:- ::1","timestamp":"2022-02-01T05:17:51.721Z"}
+{"level":"info","message":"request body:- {\"id\":\"5c049e03-4a09-410c-b847-0585882cca41\"}","timestamp":"2022-02-01T05:17:51.722Z"}
+{"level":"info","message":"KEY: CST_5c049e03-4a09-410c-b847-0585882cca41","timestamp":"2022-02-01T05:17:51.728Z"}
+{"level":"info","message":"/customer/addCustomer request from:- ::1","timestamp":"2022-02-01T05:20:06.817Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"Hannan\",\"lastName\":\"Desai\",\"age\":25,\"address\":{\"addr1\":\"roshan park society\",\"addr2\":\"jivrajpark, satellite\",\"city\":\"ahmedabad\",\"zipcode\":\"382466\"}}","timestamp":"2022-02-01T05:20:06.818Z"}
+{"level":"info","message":"/customer/updateCustomer request from:- ::1","timestamp":"2022-02-01T05:24:18.982Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"lalita\",\"id\":\"507d4fdb-d435-4b8d-9a3a-268e3824bf2c\"}","timestamp":"2022-02-01T05:24:18.982Z"}
+{"level":"error","message":"error connecting with Couchbase: error {\"message\":\"The bucket requested does not exist\",\"code\":25}","timestamp":"2022-02-01T05:24:19.063Z"}
+{"level":"info","message":"could not find document with key:CST_507d4fdb-d435-4b8d-9a3a-268e3824bf2c, error:{\"message\":\"The bucket requested does not exist\",\"code\":25}","timestamp":"2022-02-01T05:24:19.065Z"}
+{"level":"info","message":"/customer/updateCustomer request from:- ::1","timestamp":"2022-02-01T07:00:25.280Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"lalita\",\"id\":\"507d4fdb-d435-4b8d-9a3a-268e3824bf2c\"}","timestamp":"2022-02-01T07:00:25.282Z"}
+{"level":"info","message":"could not find document with key:CST_507d4fdb-d435-4b8d-9a3a-268e3824bf2c, error:{}","timestamp":"2022-02-01T07:00:25.286Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-02-01T07:13:24.250Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-02-01T07:13:24.252Z"}
+{"level":"info","message":"/customer/updateCustomer request from:- ::1","timestamp":"2022-02-01T07:14:03.732Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"lalita\",\"lastName\":\"suthar\",\"id\":\"507d4fdb-d435-4b8d-9a3a-268e3824bf2c\"}","timestamp":"2022-02-01T07:14:03.733Z"}
+{"level":"info","message":"CST_507d4fdb-d435-4b8d-9a3a-268e3824bf2c","timestamp":"2022-02-01T07:14:03.735Z"}
+{"level":"info","message":"string","timestamp":"2022-02-01T07:14:03.738Z"}
+{"level":"info","message":"/customer/updateCustomer request from:- ::1","timestamp":"2022-02-01T07:17:19.446Z"}
+{"level":"info","message":"request body:- {\"firstName\":\"ashwin\",\"lastName\":\"anthar\",\"email\":\"ashwin@gmail.com\",\"age\":32,\"address\":{\"addr1\":\"ICB Island\",\"addr2\":\"Gota, New S.G Road\",\"city\":\"ahmedabad\",\"zipcode\":\"382481\"},\"id\":\"457d4fdb-d435-4b8d-9a3a-268e3824bf2c\"}","timestamp":"2022-02-01T07:17:19.447Z"}
+{"level":"info","message":"CST_457d4fdb-d435-4b8d-9a3a-268e3824bf2c","timestamp":"2022-02-01T07:17:19.448Z"}
+{"level":"info","message":"string","timestamp":"2022-02-01T07:17:19.448Z"}
+{"level":"info","message":"could not find document with key:CST_457d4fdb-d435-4b8d-9a3a-268e3824bf2c, error:{\"message\":\"The key does not exist on the server\",\"code\":13}","timestamp":"2022-02-01T07:17:19.450Z"}
+{"level":"info","message":"/customer/deleteCustomer request from:- ::1","timestamp":"2022-02-01T10:26:45.651Z"}
+{"level":"info","message":"request body:- {\"id\":\"1\"}","timestamp":"2022-02-01T10:26:45.654Z"}
+{"level":"info","message":"/customer/deleteCustomer request from:- ::1","timestamp":"2022-02-01T10:27:02.066Z"}
+{"level":"info","message":"request body:- {\"id\":\"1\"}","timestamp":"2022-02-01T10:27:02.067Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-02-01T12:20:32.863Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-02-01T12:20:32.865Z"}
+{"level":"info","message":"/customer/deleteCustomer request from:- ::1","timestamp":"2022-02-01T12:21:11.635Z"}
+{"level":"info","message":"request body:- {\"id\":\"1\"}","timestamp":"2022-02-01T12:21:11.636Z"}
+{"level":"info","message":"CST_1","timestamp":"2022-02-01T12:21:11.638Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-23T09:29:08.755Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-23T09:29:08.765Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-23T10:37:29.632Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-23T10:37:29.639Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-23T11:34:58.677Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-23T11:34:58.681Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-23T11:35:28.999Z"}
+{"level":"info","message":"request body:- {\"id\":\"5d42518c-0d8d-4781-a6f1-77bc3fe0070b\",\"firstName\":\"vvvvvvv\",\"lastName\":\"zzzzzzz\",\"age\":20,\"address\":{\"addr1\":\"anandvadi\",\"addr2\":\"Near jaymala bus stand, maninager\",\"city\":\"ahmedabad\",\"zipcode\":\"38050\"}}","timestamp":"2022-03-23T11:35:29.001Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-23T11:35:40.889Z"}
+{"level":"info","message":"request body:- {\"id\":\"5d42518c-0d8d-4781-a6f1-77bc3fe0070b\",\"firstName\":\"vvvvvvv\",\"lastName\":\"zzzzzzz\",\"age\":20,\"address\":{\"addr1\":\"anandvadi\",\"addr2\":\"Near jaymala bus stand, maninager\",\"city\":\"ahmedabad\",\"zipcode\":\"38050\"}}","timestamp":"2022-03-23T11:35:40.890Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-23T11:38:12.804Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-23T11:38:12.813Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-23T11:38:20.003Z"}
+{"level":"info","message":"request body:- {\"id\":\"5d42518c-0d8d-4781-a6f1-77bc3fe0070b\",\"firstName\":\"vvvvvvv\",\"lastName\":\"zzzzzzz\",\"age\":20,\"address\":{\"addr1\":\"anandvadi\",\"addr2\":\"Near jaymala bus stand, maninager\",\"city\":\"ahmedabad\",\"zipcode\":\"38050\"}}","timestamp":"2022-03-23T11:38:20.005Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-23T11:39:12.521Z"}
+{"level":"info","message":"request body:- {\"name\":\"amisha t\",\"id\":\"5X3\",\"price\":500,\"category\":\"Camping\",\"ratings\":5,\"manufacturingDate\":\"04/04/2003\",\"expiryDate\":\"18/12/2011\"}","timestamp":"2022-03-23T11:39:12.522Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-23T11:40:26.243Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-23T11:40:26.244Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-23T12:16:07.564Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-23T12:16:07.571Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-23T12:16:44.979Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-23T12:16:44.984Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-23T14:32:22.525Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-23T14:32:22.528Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-23T14:32:45.487Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-23T14:32:45.488Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-23T14:38:15.669Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-23T14:38:15.673Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-23T14:38:30.619Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-23T14:38:30.621Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-23T14:40:03.524Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-23T14:40:03.530Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-23T14:40:07.414Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-23T14:40:07.415Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-23T14:41:40.052Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-23T14:41:40.054Z"}
+{"level":"info","message":"/customer/getList request from:- ::1","timestamp":"2022-03-23T14:42:21.934Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-23T14:42:21.935Z"}
+{"level":"error","message":"Uncaught exception: ReferenceError: json is not defined","timestamp":"2022-03-23T14:42:22.333Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-23T14:43:14.338Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-23T14:43:14.343Z"}
+{"level":"info","message":"/customer/getList request from:- ::1","timestamp":"2022-03-23T14:43:17.661Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-23T14:43:17.663Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-24T05:58:30.647Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-24T05:58:30.650Z"}
+{"level":"info","message":"/customer/getList request from:- ::1","timestamp":"2022-03-24T06:02:19.485Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:02:19.517Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:14:47.268Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:14:47.269Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:15:22.675Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:15:22.676Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:15:22.852Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:15:22.852Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:15:35.886Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:15:35.888Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:15:35.898Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:15:35.899Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:15:48.590Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:15:48.592Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:15:48.601Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:15:48.602Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:16:30.457Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:16:30.461Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:16:30.481Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:16:30.482Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-24T06:18:29.649Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-24T06:18:29.657Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:18:41.689Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:18:41.691Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:18:51.402Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:18:51.404Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:18:51.419Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:18:51.420Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:19:39.135Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:19:39.136Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:19:39.172Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:19:39.174Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:21:02.996Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:21:02.998Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:21:03.007Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:21:03.009Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:23:01.899Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:23:01.900Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:23:13.055Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:23:13.056Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-24T06:25:58.719Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-24T06:25:58.725Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:26:10.043Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:26:10.048Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-24T06:28:58.185Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-24T06:28:58.188Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:29:07.864Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:29:07.873Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:31:46.668Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:31:46.670Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:32:31.360Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:32:31.362Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-24T06:32:33.548Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-24T06:32:33.549Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T08:41:04.985Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T08:41:04.989Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T09:00:33.145Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T09:00:33.147Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T09:06:20.288Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T09:06:20.291Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T09:09:32.079Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:09:32.080Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T09:09:32.198Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:09:32.199Z"}
+{"level":"error","message":"error connecting with Couchbase: error {\"message\":\"Authentication failed. You may have provided an invalid username/password combination\",\"code\":2}","timestamp":"2022-03-25T09:09:34.198Z"}
+{"level":"info","message":"could not add document with key:CST_e5cecd1a-d11d-40e8-b159-df5175110fee, error:{\"message\":\"Authentication failed. You may have provided an invalid username/password combination\",\"code\":2}","timestamp":"2022-03-25T09:09:34.200Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T09:09:53.589Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:09:53.590Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T09:09:53.634Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:09:53.638Z"}
+{"level":"info","message":"could not add document with key:CST_d8bc9935-e283-4d22-9121-137e7a7edf5c, error:{}","timestamp":"2022-03-25T09:09:53.648Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T09:32:57.758Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:32:57.763Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T09:32:57.766Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:32:57.767Z"}
+{"level":"info","message":"could not add document with key:CST_a44dbe1c-1a1a-4136-b3ed-ae7c8bfb618d, error:{}","timestamp":"2022-03-25T09:32:57.772Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T09:33:12.256Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:33:12.259Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T09:33:12.265Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:33:12.265Z"}
+{"level":"info","message":"could not add document with key:CST_f5a654b5-5f0e-409a-9579-40e4497ff0b0, error:{}","timestamp":"2022-03-25T09:33:12.296Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T09:33:19.116Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:33:19.118Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T09:33:19.124Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:33:19.125Z"}
+{"level":"info","message":"could not add document with key:CST_3a789a56-bab2-4d1b-8158-c949fd292947, error:{}","timestamp":"2022-03-25T09:33:19.239Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T09:45:48.556Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:45:48.559Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T09:45:48.589Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:45:48.590Z"}
+{"level":"info","message":"could not add document with key:CST_b816328f-8fc6-409f-865f-e64a102c02b8, error:{}","timestamp":"2022-03-25T09:45:48.592Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T09:45:57.612Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:45:57.613Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T09:45:57.627Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:45:57.628Z"}
+{"level":"info","message":"could not add document with key:CST_72aa2638-604c-4293-8c75-0e4aea139127, error:{}","timestamp":"2022-03-25T09:45:57.630Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T09:58:14.995Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T09:58:14.998Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T09:59:46.237Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:59:46.238Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T09:59:46.276Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T09:59:46.277Z"}
+{"level":"error","message":"error connecting with Couchbase: error {\"message\":\"Authentication failed. You may have provided an invalid username/password combination\",\"code\":2}","timestamp":"2022-03-25T09:59:46.759Z"}
+{"level":"info","message":"could not add document with key:CST_0f5935b4-75d0-4890-8723-164725acd1dc, error:{\"message\":\"Authentication failed. You may have provided an invalid username/password combination\",\"code\":2}","timestamp":"2022-03-25T09:59:46.764Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T10:09:26.163Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T10:09:26.164Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T10:09:26.175Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T10:09:26.176Z"}
+{"level":"info","message":"could not add document with key:CST_56e0a97b-078f-4157-aa50-a8048c8a910d, error:{}","timestamp":"2022-03-25T10:09:26.184Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T10:15:53.035Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T10:15:53.036Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T10:15:55.241Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T10:15:55.242Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T10:16:53.507Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T10:16:53.508Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T10:48:54.242Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T10:48:54.243Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T10:51:46.050Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T10:51:46.051Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T10:51:51.898Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T10:51:51.899Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T11:14:07.275Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T11:14:07.276Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T11:15:36.337Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T11:15:36.338Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T11:28:28.576Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T11:28:28.579Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T11:31:47.861Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T11:31:47.862Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T11:31:50.272Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T11:31:50.273Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T11:31:50.319Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T11:31:50.320Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T11:38:47.490Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T11:38:47.493Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T11:38:47.505Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T11:38:47.505Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T11:47:00.867Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T11:47:00.870Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T11:47:09.931Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T11:47:09.933Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T11:47:09.944Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T11:47:09.945Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T11:47:17.942Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T11:47:17.943Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T11:47:17.948Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T11:47:17.949Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:02:21.383Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:02:21.389Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:02:21.401Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:02:21.403Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:02:50.315Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:02:50.317Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:04:12.464Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:04:12.464Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:04:18.664Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:04:18.665Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:05:06.960Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:05:06.961Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:05:41.354Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:05:41.355Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:05:54.481Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:05:54.481Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:07:13.456Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:07:13.457Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:07:16.358Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:07:16.359Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:07:16.367Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:07:16.367Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:07:17.859Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:07:17.860Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:10:43.774Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:10:43.775Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:12:11.898Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:12:11.900Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:16:26.452Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:16:26.454Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:16:26.466Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:16:26.467Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:16:47.894Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:16:47.895Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:16:47.906Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:16:47.907Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:16:50.369Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:16:50.371Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T12:18:11.489Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-03-25T12:18:11.490Z"}
+{"level":"error","message":"error connecting with Couchbase: error {\"message\":\"Authentication failed. You may have provided an invalid username/password combination\",\"code\":2}","timestamp":"2022-03-25T12:18:11.542Z"}
+{"level":"info","message":"could not add document with key:CST_3312be6b-2f60-4c89-b563-141571a1c680, error:{\"message\":\"Authentication failed. You may have provided an invalid username/password combination\",\"code\":2}","timestamp":"2022-03-25T12:18:11.546Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T12:18:24.000Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-03-25T12:18:24.000Z"}
+{"level":"info","message":"could not add document with key:CST_17fbbcab-bff0-43c6-83d3-f5295566c5e3, error:{}","timestamp":"2022-03-25T12:18:24.006Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T12:24:21.435Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T12:24:21.438Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T12:24:30.118Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-03-25T12:24:30.137Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T12:41:29.411Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T12:41:29.414Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T12:41:40.213Z"}
+{"level":"info","message":"request body:- {\"id\":1}","timestamp":"2022-03-25T12:41:40.215Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T12:42:07.635Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-25T12:42:07.638Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T12:43:32.300Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T12:43:32.303Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T12:43:38.352Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-25T12:43:38.355Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T12:44:20.529Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T12:44:20.532Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T12:44:24.241Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-25T12:44:24.243Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T12:44:55.272Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T12:44:55.275Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T12:44:58.581Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-25T12:44:58.583Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T12:45:47.846Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T12:45:47.852Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T12:45:51.405Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-25T12:45:51.406Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T12:46:51.579Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T12:46:51.588Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T12:46:54.595Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-25T12:46:54.610Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T12:47:35.568Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T12:47:35.575Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T12:47:38.117Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-25T12:47:38.118Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T12:48:01.435Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T12:48:01.438Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T12:48:04.678Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-25T12:48:04.685Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T12:51:12.385Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T12:51:12.389Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T12:51:16.589Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-25T12:51:16.594Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:53:00.121Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:53:00.122Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:53:00.138Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:53:00.139Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:53:07.335Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:53:07.335Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:53:07.340Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:53:07.340Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:53:26.082Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:53:26.087Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:53:26.102Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:53:26.103Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:54:22.501Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-25T12:54:22.502Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T12:55:35.430Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T12:55:35.435Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:55:42.805Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:55:42.809Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:55:51.585Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:55:51.587Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:55:51.603Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:55:51.605Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:55:52.968Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:55:52.969Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:55:54.711Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:55:54.715Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:55:54.721Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T12:55:54.722Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:58:58.351Z"}
+{"level":"info","message":"request query:- {}","timestamp":"2022-03-25T12:58:58.352Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:58:58.428Z"}
+{"level":"info","message":"request query:- {}","timestamp":"2022-03-25T12:58:58.430Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:58:58.437Z"}
+{"level":"info","message":"request query:- {}","timestamp":"2022-03-25T12:58:58.711Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:58:58.903Z"}
+{"level":"info","message":"request query:- {}","timestamp":"2022-03-25T12:58:58.909Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:58:58.921Z"}
+{"level":"info","message":"request query:- {}","timestamp":"2022-03-25T12:58:58.922Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T12:58:58.953Z"}
+{"level":"info","message":"request query:- {}","timestamp":"2022-03-25T12:58:58.955Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T13:00:25.699Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T13:00:25.700Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T13:00:25.704Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T13:00:25.705Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T13:01:01.458Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T13:01:01.462Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T13:07:11.740Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T13:07:11.741Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T13:07:11.753Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T13:07:11.769Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T13:07:28.526Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T13:07:28.527Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T13:07:28.544Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T13:07:28.545Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T13:09:00.317Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T13:09:00.318Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T13:10:26.011Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T13:10:26.022Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T13:10:58.753Z"}
+{"level":"info","message":"request body:- {\"data\":\"1X1\"}","timestamp":"2022-03-25T13:10:58.755Z"}
+{"level":"error","message":"Schema validation failed for 0: [{\"path\":[],\"property\":\"instance\",\"message\":\"is not of a type(s) object\",\"schema\":\"/getProductById\",\"instance\":\"1X1\",\"name\":\"type\",\"argument\":[\"object\"],\"stack\":\"instance is not of a type(s) object\"}]","timestamp":"2022-03-25T13:10:58.808Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T13:12:18.392Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T13:12:18.395Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T13:12:31.760Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T13:12:31.762Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T13:12:31.773Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T13:12:31.774Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T13:12:33.074Z"}
+{"level":"info","message":"request body:- {\"data\":\"1X1\"}","timestamp":"2022-03-25T13:12:33.075Z"}
+{"level":"error","message":"Schema validation failed for 0: [{\"path\":[],\"property\":\"instance\",\"message\":\"is not of a type(s) object\",\"schema\":\"/getProductById\",\"instance\":\"1X1\",\"name\":\"type\",\"argument\":[\"object\"],\"stack\":\"instance is not of a type(s) object\"}]","timestamp":"2022-03-25T13:12:33.086Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T13:13:54.005Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-25T13:13:54.006Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-25T13:14:22.912Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-25T13:14:22.915Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T13:14:29.213Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T13:14:29.214Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-25T13:14:29.228Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-25T13:14:29.228Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T13:14:30.509Z"}
+{"level":"info","message":"request body:- {\"id\":\"2X2\"}","timestamp":"2022-03-25T13:14:30.510Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T13:16:06.006Z"}
+{"level":"info","message":"request body:- {\"id\":\"2X2\"}","timestamp":"2022-03-25T13:16:06.009Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T13:19:16.288Z"}
+{"level":"info","message":"request body:- {\"id\":\"2X2\"}","timestamp":"2022-03-25T13:19:16.291Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T13:19:59.047Z"}
+{"level":"info","message":"request body:- {\"id\":\"2X2\"}","timestamp":"2022-03-25T13:19:59.048Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-25T13:21:16.320Z"}
+{"level":"info","message":"request body:- {\"id\":\"2X2\"}","timestamp":"2022-03-25T13:21:16.321Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-26T13:52:21.224Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-26T13:52:21.230Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-26T13:54:17.409Z"}
+{"level":"info","message":"request body:- {\"id\":\"2X2\"}","timestamp":"2022-03-26T13:54:17.414Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-26T13:54:54.940Z"}
+{"level":"info","message":"request body:- {\"id\":\"2X2\"}","timestamp":"2022-03-26T13:54:54.942Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-26T13:58:22.694Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-26T13:58:22.696Z"}
+{"level":"error","message":"Schema validation failed for 0: [{\"path\":[\"id\"],\"property\":\"instance.id\",\"message\":\"is required\",\"schema\":{\"type\":\"string\",\"required\":true},\"name\":\"required\",\"stack\":\"instance.id is required\"}]","timestamp":"2022-03-26T13:58:22.701Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-26T13:59:37.379Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-26T13:59:37.383Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-26T13:59:45.039Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-26T13:59:45.040Z"}
+{"level":"error","message":"Schema validation failed for 0: [{\"path\":[\"id\"],\"property\":\"instance.id\",\"message\":\"is required\",\"schema\":{\"type\":\"string\",\"required\":true},\"name\":\"required\",\"stack\":\"instance.id is required\"}]","timestamp":"2022-03-26T13:59:45.057Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-26T14:01:07.600Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-26T14:01:07.605Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-26T14:03:15.948Z"}
+{"level":"info","message":"request body:- {\"name\":\"Easy Boot\",\"id\":\"2X2\",\"price\":70,\"category\":\"Footwear\",\"ratings\":5,\"manufacturingDate\":\"04/04/2003\",\"expiryDate\":\"18/12/2011\"}","timestamp":"2022-03-26T14:03:15.949Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-26T14:03:25.505Z"}
+{"level":"info","message":"request body:- {\"name\":\"Easy Boot\",\"id\":\"2X2\",\"price\":70,\"category\":\"abc\",\"ratings\":5,\"manufacturingDate\":\"04/04/2003\",\"expiryDate\":\"18/12/2011\"}","timestamp":"2022-03-26T14:03:25.506Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-26T17:58:46.495Z"}
+{"level":"info","message":"request body:- {\"name\":\"Easy Boot\",\"id\":\"2X2\",\"price\":70,\"category\":\"abc\",\"ratings\":5,\"manufacturingDate\":\"04/04/2003\",\"expiryDate\":\"18/12/2011\"}","timestamp":"2022-03-26T17:58:46.529Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-26T17:59:22.199Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-26T17:59:22.200Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-26T17:59:22.213Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-26T17:59:22.215Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-26T17:59:46.650Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-26T17:59:46.658Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-26T17:59:52.633Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-26T17:59:52.634Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-26T17:59:52.638Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-26T17:59:52.639Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-26T17:59:54.415Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-26T17:59:54.418Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-26T18:04:24.211Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-26T18:04:24.219Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-26T18:04:38.923Z"}
+{"level":"info","message":"request body:- {\"name\":\"Easy Boot\",\"id\":\"2X2\",\"price\":70,\"category\":\"abc\",\"ratings\":5,\"manufacturingDate\":\"04/04/2003\",\"expiryDate\":\"18/12/2011\"}","timestamp":"2022-03-26T18:04:38.929Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-26T18:13:27.184Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-26T18:13:27.188Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-26T18:13:52.705Z"}
+{"level":"info","message":"request body:- {\"name\":\"Easy Boot\",\"id\":\"2X2\",\"price\":70,\"category\":\"TYU\",\"ratings\":5,\"manufacturingDate\":\"04/04/2003\",\"expiryDate\":\"18/12/2011\"}","timestamp":"2022-03-26T18:13:52.708Z"}
+{"level":"info","message":"Save Rejection Details data: {\"name\":\"Easy Boot\",\"id\":\"2X2\",\"price\":70,\"category\":\"TYU\",\"ratings\":5,\"manufacturingDate\":\"04/04/2003\",\"expiryDate\":\"18/12/2011\"}","timestamp":"2022-03-26T18:13:52.712Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-26T18:16:47.974Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-26T18:16:47.978Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-26T18:16:54.469Z"}
+{"level":"info","message":"request body:- {\"name\":\"Easy Boot\",\"id\":\"2X2\",\"price\":70,\"category\":\"TYU\",\"ratings\":5,\"manufacturingDate\":\"04/04/2003\",\"expiryDate\":\"18/12/2011\"}","timestamp":"2022-03-26T18:16:54.470Z"}
+{"level":"info","message":"Save Rejection Details data: {\"name\":\"Easy Boot\",\"id\":\"2X2\",\"price\":70,\"category\":\"TYU\",\"ratings\":5,\"manufacturingDate\":\"04/04/2003\",\"expiryDate\":\"18/12/2011\"}","timestamp":"2022-03-26T18:16:54.474Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-26T18:23:15.703Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-26T18:23:15.706Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-26T18:23:47.231Z"}
+{"level":"info","message":"request body:- {\"name\":\"Easy Boot\",\"id\":\"2X2\",\"price\":500,\"category\":\"TYU\",\"ratings\":5,\"manufacturingDate\":\"04/04/2003\",\"expiryDate\":\"18/12/2011\"}","timestamp":"2022-03-26T18:23:47.233Z"}
+{"level":"info","message":"Save Rejection Details data: {\"name\":\"Easy Boot\",\"id\":\"2X2\",\"price\":500,\"category\":\"TYU\",\"ratings\":5,\"manufacturingDate\":\"04/04/2003\",\"expiryDate\":\"18/12/2011\"}","timestamp":"2022-03-26T18:23:47.238Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-27T09:42:17.915Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-27T09:42:17.920Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-27T09:43:44.973Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-27T09:43:44.978Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-27T09:43:58.466Z"}
+{"level":"info","message":"request body:- {\"name\":\"Easy Boot\",\"id\":\"2X2\",\"price\":500,\"category\":\"TYU\",\"ratings\":5,\"manufacturingDate\":\"04/04/2003\",\"expiryDate\":\"18/12/2011\"}","timestamp":"2022-03-27T09:43:58.467Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-27T09:44:50.950Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T09:44:50.951Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-27T09:44:50.965Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T09:44:50.967Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-27T09:44:53.246Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-27T09:44:53.247Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-27T09:45:04.782Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-27T09:45:04.783Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-27T09:48:46.383Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-27T09:48:46.384Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-27T09:50:31.154Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-27T09:50:31.155Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-27T09:50:31.198Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T09:50:31.201Z"}
+{"level":"info","message":"server started with port : 3000","timestamp":"2022-03-27T09:52:49.579Z"}
+{"level":"info","message":"Environment: development","timestamp":"2022-03-27T09:52:49.584Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-27T09:52:54.946Z"}
+{"level":"info","message":"request body:- {\"name\":\"Easy Boot\",\"id\":\"2X2\",\"price\":500,\"category\":\"TYU\",\"ratings\":5,\"manufacturingDate\":\"04/04/2003\",\"expiryDate\":\"18/12/2011\"}","timestamp":"2022-03-27T09:52:54.949Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-27T09:53:36.124Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T09:53:36.125Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-27T09:53:36.133Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T09:53:36.135Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-27T09:53:39.084Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T09:53:39.085Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-27T09:53:39.099Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T09:53:39.100Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-27T09:53:40.638Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-27T09:53:40.639Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-27T09:53:40.658Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T09:53:40.659Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-27T09:56:12.651Z"}
+{"level":"info","message":"request body:- {\"name\":\"Comfy\",\"id\":\"1X2\",\"price\":150,\"category\":\"Climbing\",\"ratings\":5,\"manufacturingDate\":\"04/04/2003\",\"expiryDate\":\"18/12/2011\"}","timestamp":"2022-03-27T09:56:12.651Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-27T10:07:34.126Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T10:07:34.144Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-27T10:07:34.151Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T10:07:34.152Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-27T10:07:41.903Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T10:07:41.907Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-27T10:07:41.929Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T10:07:41.930Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-27T10:08:35.697Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-27T10:08:35.698Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-27T10:08:35.709Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T10:08:35.710Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-27T10:10:53.949Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X2\"}","timestamp":"2022-03-27T10:10:53.950Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-27T10:11:14.697Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-27T10:11:14.698Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-27T10:11:14.703Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T10:11:14.704Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-27T10:11:34.678Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T10:11:34.678Z"}
+{"level":"info","message":"/product/getList request from:- ::1","timestamp":"2022-03-27T10:11:34.682Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T10:11:34.683Z"}
+{"level":"info","message":"/product/getProductFromID request from:- ::1","timestamp":"2022-03-27T10:11:35.742Z"}
+{"level":"info","message":"request body:- {\"id\":\"1X1\"}","timestamp":"2022-03-27T10:11:35.743Z"}
+{"level":"info","message":"/product/updateList request from:- ::1","timestamp":"2022-03-27T10:11:35.756Z"}
+{"level":"info","message":"request body:- {}","timestamp":"2022-03-27T10:11:35.757Z"}
